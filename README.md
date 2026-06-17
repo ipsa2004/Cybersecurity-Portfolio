@@ -1,5 +1,5 @@
 # Hi, I'm Ipsa Sahoo 👋
-
+![Banner](assets/banner.png)
 ## Cybersecurity Enthusiast
 
 Passionate about:
